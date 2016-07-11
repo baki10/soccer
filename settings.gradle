@@ -1,0 +1,6 @@
+rootProject.name = 'soccer'
+include 'logging'
+include 'server'
+include 'web'
+include 'parser'
+

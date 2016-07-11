@@ -1,0 +1,32 @@
+/*teams*/
+.team-list-column {
+    padding: 8px;
+
+}
+
+.team-list-block {
+    border: 1px solid #c4c4c4;
+}
+
+.team-list-logo {
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.team-list-title {
+    margin-top: 8px;
+}
+.teams-container{
+    padding: 8px;
+}
+.teams-container a{
+    color: darkgreen;
+}
+
